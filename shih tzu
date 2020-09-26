@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="description" content="[favorite animal website]">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+  <style>
+    body {background-color: tan;}
+    p {color: white;}
+  </style>
+</head>
+<body>
+  <h1>My favorite animal is a Shih Tzu </h1>
+  <h2>I love my shih tzu her  name is Maxie </h2>
+  <p> Maxie is a rescue dog. we resuced her 4 years ago when she was 1 year old.<br>
+    Maxie is a small dog she only weights 15 pounds <br>
+    Maxie is white and tan and has short stright hair<br>
+  </p>
+  <h2>What makes Shih Tzus so great </h2>
+  <p>Being cute is a way of life for this lively charmer.<br>
+    The Shih Tzu is known to be especially affectionate with children.<br>
+    As a small dog bred to spend most of their day inside royal palaces,<br> 
+    they make a great pet if you live in an apartment or lack a big backyard.<br>
+    Some dogs live to dig holes and chase cats,<br>
+    but a Shih Tzu’s idea of fun is sitting in your lap acting adorable as you try to watch TV.
+  </p>
+  <h2>Why you should get a Shih Tzu </h2>
+  <p> If you’re looking for a small best buddy who who can adapt to apartment living,<br>
+    join you on the couch for cuddles, and shower you with unconditional love,<br>
+    this may be the dog for you.<br>
+    </p>
+  </body>
+</html>
